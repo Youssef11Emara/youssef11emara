@@ -258,7 +258,8 @@ footer nav i:hover,
         padding-right: 20px;
     }
     header nav a {
-        font-size: 3vw;
+        font-size: 2.3vw;
+        margin-right: 8px;
     }
     .media {
         margin-top: -100px;
