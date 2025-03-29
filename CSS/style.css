@@ -121,6 +121,7 @@ section h2{
     color: white;
     padding-bottom: 50px;
     text-shadow: 4px 2px 7px #ffffff;
+    animation: h1 1s ease infinite alternate;
 }
 .contenar,
 .contenar{
