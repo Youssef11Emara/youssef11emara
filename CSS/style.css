@@ -187,20 +187,18 @@ section .contenar .card .icons,
     padding: 1vw 8px;
 }
 .projects .contenar .card {
-    width: 25%;
+    width: 315px;
+    height: 300px;
     margin: auto;
     border-radius: 0 15px 0 15px;
     transition: .3s ease;
 
 }
 .projects .contenar .card:hover {
-    scale: 1.1;
+    scale: 1.08;
 }
-.projects .contenar .card .icons{
-    text-align: center;
-    font-size: 8vw;
-    align-items: center;
-    color: white;
+.projects .contenar .card .img img{
+    width: 100%;
 }
 footer {
     width: 100%;
