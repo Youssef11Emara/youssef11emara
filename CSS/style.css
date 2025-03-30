@@ -125,7 +125,7 @@ main .btn-down i{
     text-decoration: none;
     color: white;
     transition: .3s ease;
-    margin-top: 10px;
+    margin-top: 40px;
     display: block;
     font-size: 1.5vw;
     position: relative;
@@ -337,8 +337,8 @@ footer nav i:hover{
         margin: auto;
         border-radius: 20px;
     }
-    main .btn-p a{
-        margin-top: 10px;
+    main .btn-down i{
+        margin-top: 40px;
         font-size: 2.5vw;
     }
     .projects .contenar .card .title-card h3 {
@@ -352,7 +352,6 @@ footer nav i:hover{
         height: 50%;
     }
     main .btn-p a{
-        margin-top: 10px;
         font-size: 4.5vw;
     }
 
@@ -362,8 +361,7 @@ footer nav i:hover{
     header{
         padding: 10px 40px;
     }
-    main .btn-p a{
-        margin-top: 10px;
+    main .btn-down i{
         font-size: 3vw;
     }
     
@@ -388,9 +386,8 @@ footer nav i:hover{
     .media {
         margin-top: -100px;
     }
-    main .btn-p a{
-        margin-top: 10px;
-        font-size: 4.5vw;
+    main .btn-down i{
+        font-size: 4vw;
     }
     main .content .div-img {
         width: 140px;
